@@ -21,4 +21,5 @@ Este proyecto utiliza embeddings de frases y coseno de similitud para buscar pel
 4. Al final solicitara que se ingrese un termino de busqueda
 5. Ingresa el termino de busqueda (ejm: a space adventure)
 6. El codigo buscara las peliculas basado en tu termino de busqueda
+7. Recuerda cambiar la ruta que hace referencia al archivo csv y guardarlo en una carpeta llamada src
 
